@@ -50,7 +50,9 @@ AeroFit-Customer-Analysis/
 ├── Dataset/
 ├── Images/
 └── Report.pdf
-![Aerofit Dashboard](aerofit_dashboard.png)
+## 📊 Correlation Heatmap
+
+![Aerofit Dashboard](./aerofit_dashboard.png)
 
 ## 🚀 Skills Demonstrated
 - Python
