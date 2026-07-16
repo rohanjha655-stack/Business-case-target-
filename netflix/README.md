@@ -54,6 +54,9 @@ Netflix-Content-Analysis/
 ├── Dataset/
 ├── Images/
 └── Presentation.pdf
+## 📊 Dashboard Preview
+
+![Netflix Dashboard](./netflix_dashboard.png)
 ```
 
 ## 🚀 Skills Demonstrated
