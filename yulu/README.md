@@ -55,6 +55,7 @@ Yulu-Demand-Analysis/
 ├── Dataset/
 ├── Images/
 └── Report.pdf
+![Yulu Dashboard](./yulu_dashboard.png)
 ```
 
 ## 🚀 Skills Demonstrated
