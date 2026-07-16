@@ -30,7 +30,7 @@ Toss decision is a measurable, statistically validated lever, not superstition â
 ## Visuals
 Win rate by toss decision and top 5 run scorers, 2008â€“2017:
 [Insert `ipl_analysis_charts.png` here]
-
+![IPL Dashboard](./ipl_dashboard.png)
 ## How to Run
 ```
 pip install pandas numpy scipy matplotlib seaborn
