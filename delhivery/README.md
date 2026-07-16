@@ -33,6 +33,8 @@ Delhivery's data team needed to understand where actual delivery performance div
 
 ## Visuals
 [Add the boxplot outlier chart or a bar chart of order volume by state — this is the single highest-impact addition]
+├── delhivery_boxplot.png 
+
 
 ## How to Run
 ```
