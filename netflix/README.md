@@ -48,16 +48,19 @@ Netflix wants to understand:
 
 ## 📁 Project Structure
 
-Netflix-Content-Analysis/
+## 📁 Project Structure
+
 ```
+Netflix-Content-Analysis/
 ├── Netflix_Analysis.ipynb
 ├── Dataset/
 ├── Images/
 └── Presentation.pdf
+```
+
 ## 📊 Dashboard Preview
 
 ![Netflix Dashboard](./netflix_dashboard.png)
-
 
 ## 🚀 Skills Demonstrated
 - Python
