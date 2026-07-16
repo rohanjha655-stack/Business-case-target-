@@ -1,4 +1,7 @@
 # 🏃 AeroFit Customer Profiling Analysis
+# Test Image
+
+![Aerofit Dashboard](./aerofit_dashboard.png)
 
 ## 📌 Overview
 This project analyzes customer demographics and purchasing behavior to identify customer segments for AeroFit treadmills using descriptive statistics and probability analysis.
