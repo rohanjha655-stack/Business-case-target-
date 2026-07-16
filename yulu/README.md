@@ -50,13 +50,13 @@ Questions answered:
 ## 📁 Project Structure
 
 Yulu-Demand-Analysis/
-```
+
 ├── Yulu.ipynb
 ├── Dataset/
 ├── Images/
 └── Report.pdf
 ![Yulu Dashboard](./yulu_dashboard.png)
-```
+
 
 ## 🚀 Skills Demonstrated
 - Python
