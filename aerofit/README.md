@@ -50,6 +50,11 @@ AeroFit-Customer-Analysis/
 ├── Dataset/
 ├── Images/
 └── Report.pdf
+## 📊 Analysis Visualization
+
+<p align="center">
+  <img src="./aerofit_dashboard.png" alt="Aerofit Analysis" width="900">
+</p>
 ```
 
 ## 🚀 Skills Demonstrated
