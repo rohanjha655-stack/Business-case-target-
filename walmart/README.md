@@ -28,6 +28,7 @@ Build gender-based and age-based targeting (26–55 age band, with a premium til
 
 ## Visuals
 [Add the CLT sample-mean histograms or the age/gender grouped bar chart — this is the single highest-impact addition]
+![Walmart Dashboard](./walmart_dashboard.png)
 
 ## How to Run
 ```
