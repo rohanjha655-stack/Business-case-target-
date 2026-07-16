@@ -57,7 +57,7 @@ Netflix-Content-Analysis/
 ## 📊 Dashboard Preview
 
 ![Netflix Dashboard](./netflix_dashboard.png)
-```
+
 
 ## 🚀 Skills Demonstrated
 - Python
