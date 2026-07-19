@@ -4,7 +4,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](delhivery_dashboard.png)
 
 ## Overview
 This Power BI dashboard analyzes Delhivery logistics operations using 145K+ trip records.
