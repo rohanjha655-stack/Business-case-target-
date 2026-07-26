@@ -58,9 +58,9 @@ Netflix-Content-Analysis/
 └── Presentation.pdf
 ```
 
-## 📊 Dashboard Preview
+## Bivariate Trend Analysis
 
-![Netflix Dashboard](./Netflix_PowerBI_Dashboard.png)
+![Movies vs TV Shows Over Time](Bivariate_Trend_Analysis.png)
 
 ## 🚀 Skills Demonstrated
 - Python
