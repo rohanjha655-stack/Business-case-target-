@@ -75,3 +75,39 @@ Netflix-Content-Analysis/
 **Rohan Jha**
 
 ⭐ Star this repository if you found it useful.
+---
+
+## Netflix Power BI Dashboard
+
+Developed an interactive Power BI dashboard to analyze 8,807 Netflix titles across content type, ratings, countries, categories, and catalogue growth.
+
+### Dashboard Preview
+
+![Netflix Content Analytics Dashboard](netflix_dashboard.png)
+
+### Key Insights
+
+- Movies account for 69.6% of the catalogue.
+- The dataset contains 6,131 movies and 2,676 TV shows.
+- The average movie duration is approximately 100 minutes.
+- TV-MA and TV-14 are the most common content ratings.
+- The United States, India, and the United Kingdom lead in content volume.
+- Netflix content additions increased significantly after 2015.
+
+### Dashboard Features
+
+- Interactive filters for content type, rating, and year added
+- KPI cards for major catalogue metrics
+- Movies versus TV shows distribution
+- Content addition trends over time
+- Top content ratings and countries
+- Leading content categories
+
+### Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
