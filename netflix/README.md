@@ -59,7 +59,7 @@ Netflix-Content-Analysis/
 ```
 
 ## Bivarte Trend Analysis
-[Movies vs TV Shows Over Time](https://raw.githubusercontent.com/rohanjha655-stack/Business-case-target/main/netflix/BIVARTE_TREND_ANALYSIS.png)
+![Movies vs TV Shows Over Time](bivariate.png)
 
 ## 🚀 Skills Demonstrated
 - Python
