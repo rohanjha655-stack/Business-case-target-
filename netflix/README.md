@@ -60,7 +60,7 @@ Netflix-Content-Analysis/
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](./Netflix_Dashboard.png)
+![Netflix Dashboard](./Netflix_PowerBI_Dashboard.png)
 
 ## 🚀 Skills Demonstrated
 - Python
@@ -83,7 +83,7 @@ Developed an interactive Power BI dashboard to analyze 8,807 Netflix titles acro
 
 ### Dashboard Preview
 
-![Netflix Content Analytics Dashboard](Netflix_Dashboard.png)
+![Netflix Content Analytics Dashboard](Netflix_PowerBI_Dashboard.png)
 
 ### Key Insights
 
