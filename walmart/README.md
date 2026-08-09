@@ -40,3 +40,29 @@ jupyter notebook walmart_analysis.ipynb
 - `walmart_analysis.ipynb` — main analysis notebook
 - `data/` — dataset (Walmart Black Friday public dataset)
 - `README.md` — this file
+  
+## 📊 Power BI Dashboard
+
+I developed an interactive Power BI dashboard to analyze Walmart customer purchasing behavior and identify key trends across customer demographics, product categories, and occupations.
+
+### 🎯 Key KPIs
+- Total Purchase: ₹5.10 Billion
+- Total Customers: 6K
+- Total Products: 4K
+- Total Transactions: 550K
+- Average Purchase: ₹9K
+
+### 📈 Dashboard Analysis
+- Purchase Analysis by Age Group
+- Purchase Analysis by Gender
+- Purchase Analysis by Marital Status
+- Purchase Analysis by City Category
+- Top 10 Product Categories by Purchase
+- Top 10 Occupations by Purchase
+
+### 🛠️ Tools & Skills
+Power BI | DAX | Data Cleaning | Data Modeling | KPI Development | Data Visualization | Dashboard Design
+
+### 📷 Dashboard Preview
+
+![Walmart Customer Purchase Analysis](Walmart_Dashboard.png)
